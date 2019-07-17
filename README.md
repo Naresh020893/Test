@@ -1,2 +1,2 @@
 # Test
-This is test repository
+This is sample repository creation in github
